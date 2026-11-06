@@ -21,9 +21,9 @@ Image classification is a fundamental task in computer vision where an input ima
 
 ## PROGRAM
 
-### Name: HEMNATH R
+### Name: RAJU D
 
-### Register Number: 212224240057
+### Register Number: 212224240128
 
 ```python
 import torch
